@@ -7,7 +7,7 @@ accountcity = "jaipur";
    we mostly use const and let and should not choose to declare a variable without them. (like accountcity)
 */
 
-// accountId = 2  ->not allowed to be assigned to a variable who is defined using const
+// accountId = 2  ->not allowed to be reassigned to a variable who is defined using const
 
 
 accountEmail = "khan@1gmail.com"
